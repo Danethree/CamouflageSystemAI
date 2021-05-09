@@ -2,6 +2,9 @@
 
 [![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()    [![Unity Badge](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]() 
 
+ <img src = "./src/ScreenGame.PNG" align = "center" >
+
+
 <ul>
   <li><b>Description</b></li>
   
@@ -15,3 +18,4 @@
   
   Este projeto tem como objetivo de simular um sistema de camuflagem usando Algoritmos Genéticos. Nele o jogador tem que clicar no maior número de personagens possíveis e o sistema irá analisar qual personagem demorou mais para ser clicado. Considerando os que ficaram mais tempo na tela como melhores "geneticamente" ele então produz na próxima geração personagens que mesclam a características dos mais fortes anteriormente.
   </ul>
+
